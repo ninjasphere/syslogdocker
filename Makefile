@@ -1,2 +1,2 @@
 build:
-	docker builder -t ninjasphere/syslogdocker .
+	docker build -t ninjasphere/syslogdocker .
